@@ -7,3 +7,5 @@ Concepts:
 -pandas
 -matplotlib
 -regex
+
+Final project analyzing tweets with the keyword #crypto in them
