@@ -8,3 +8,5 @@
 # Concepts:
 numpy, pandas, matplotlib, regex, scipy.stats, statsmodels, anova, seaborn
 
+# Final project "Text Classification Modeling" slide deck https://docs.google.com/presentation/d/138pN7lY0qw8M-LquVl9jnP0bifRGr3wAVPuZRJdeNqQ/edit?usp=sharing
+
